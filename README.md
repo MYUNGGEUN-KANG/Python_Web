@@ -6,5 +6,5 @@
 - aefefewf
 ## What is Docker?
 - aegragr
-## What is Pythin?
+## What is Python?
 * asdfadf
